@@ -12,7 +12,7 @@ An intelligent AI-powered Resume Screening App built with **Streamlit**. It auto
 
 | Home Page | Prediction Page |
 |-----------|-----------------|
-| ![Home Page](https://github.com/Suryansh-Dhama/AI-Powered-Resume-Screening-System-for-Efficient-Candidate-Shortlisting/blob/75861e3802f3f9e2c26ffcf9bee6aaf5eebf1f0c/images/1.png) | ![Prediction Page](https://github.com/Suryansh-Dhama/AI-Powered-Resume-Screening-System-for-Efficient-Candidate-Shortlisting/blob/75861e3802f3f9e2c26ffcf9bee6aaf5eebf1f0c/images/2.png) |
+| ![Home Page](https://github.com/Suryansh-Dhama/AI-Powered-Resume-Screening-System-for-Efficient-Candidate-Shortlisting/blob/75861e3802f3f9e2c26ffcf9bee6aaf5eebf1f0c/images/1.png)   | ![Prediction Page](https://github.com/Suryansh-Dhama/AI-Powered-Resume-Screening-System-for-Efficient-Candidate-Shortlisting/blob/75861e3802f3f9e2c26ffcf9bee6aaf5eebf1f0c/images/2.png) |
 
 | Uploaded Resume | Excel Download |
 |------------------|----------------|
